@@ -1,0 +1,164 @@
+PhantomJS is launching GhostDriver...
+[INFO  - 2021-06-04T08:32:20.042Z] GhostDriver - Main - running on port 51667
+[INFO  - 2021-06-04T08:32:22.499Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - _decorateNewWindow - page.settings: {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.2 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2021-06-04T08:32:22.499Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - page.customHeaders:  - {}
+[INFO  - 2021-06-04T08:32:22.499Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - CONSTRUCTOR - Desired Capabilities: {"browserName":"phantomjs","version":"","platform":"ANY","javascriptEnabled":true}
+[INFO  - 2021-06-04T08:32:22.499Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.2","driverName":"ghostdriver","driverVersion":"1.0.4","platform":"windows-8-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2021-06-04T08:32:22.499Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 620a5e00-c50f-11eb-875d-c5bf7280fc41
+[ERROR - 2021-06-04T08:32:22.872Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - Page at 'https://www.baidu.com/' - Console Error (msg): ReferenceError: Can't find variable: $
+[ERROR - 2021-06-04T08:32:22.872Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - Page at 'https://www.baidu.com/' - Console Error (stack): [
+  {
+    "file": "https://www.baidu.com/",
+    "line": 205,
+    "function": ""
+  },
+  {
+    "file": "https://www.baidu.com/",
+    "line": 205,
+    "function": ""
+  }
+]
+[ERROR - 2021-06-04T08:32:22.873Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - Page at 'https://www.baidu.com/' - Console Error (msg): ReferenceError: Can't find variable: define
+[ERROR - 2021-06-04T08:32:22.873Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - Page at 'https://www.baidu.com/' - Console Error (stack): [
+  {
+    "file": "https://www.baidu.com/",
+    "line": 207,
+    "function": ""
+  }
+]
+[ERROR - 2021-06-04T08:32:22.881Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - Page at 'https://www.baidu.com/' - Console Error (msg): ReferenceError: Can't find variable: $
+[ERROR - 2021-06-04T08:32:22.881Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - Page at 'https://www.baidu.com/' - Console Error (stack): [
+  {
+    "file": "https://www.baidu.com/",
+    "line": 233,
+    "function": ""
+  },
+  {
+    "file": "https://www.baidu.com/",
+    "line": 234,
+    "function": ""
+  }
+]
+[ERROR - 2021-06-04T08:32:22.882Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - Page at 'https://www.baidu.com/' - Console Error (msg): ReferenceError: Can't find variable: require
+[ERROR - 2021-06-04T08:32:22.882Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - Page at 'https://www.baidu.com/' - Console Error (stack): [
+  {
+    "file": "https://www.baidu.com/",
+    "line": 235,
+    "function": ""
+  },
+  {
+    "file": "https://www.baidu.com/",
+    "line": 237,
+    "function": ""
+  },
+  {
+    "file": "https://www.baidu.com/",
+    "line": 237,
+    "function": ""
+  }
+]
+[ERROR - 2021-06-04T08:32:22.893Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - Page at 'https://www.baidu.com/' - Console Error (msg): ReferenceError: Can't find variable: F
+[ERROR - 2021-06-04T08:32:22.893Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - Page at 'https://www.baidu.com/' - Console Error (stack): [
+  {
+    "file": "https://www.baidu.com/",
+    "line": 243,
+    "function": ""
+  }
+]
+[ERROR - 2021-06-04T08:32:22.893Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - Page at 'https://www.baidu.com/' - Console Error (msg): ReferenceError: Can't find variable: F
+[ERROR - 2021-06-04T08:32:22.894Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - Page at 'https://www.baidu.com/' - Console Error (stack): [
+  {
+    "file": "https://www.baidu.com/",
+    "line": 243,
+    "function": ""
+  }
+]
+[ERROR - 2021-06-04T08:32:22.894Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - Page at 'https://www.baidu.com/' - Console Error (msg): ReferenceError: Can't find variable: $
+[ERROR - 2021-06-04T08:32:22.894Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - Page at 'https://www.baidu.com/' - Console Error (stack): [
+  {
+    "file": "https://www.baidu.com/",
+    "line": 257,
+    "function": ""
+  }
+]
+[ERROR - 2021-06-04T08:32:23.944Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - Page at 'https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=长城&rn=&fenlei=256&oq=&rsv_pq=88e6712e00021c75&rsv_t=bbcfp60Bg+TzcZejuTSSQX/OnOKA1zbUB8pvEackcH4z8oU9EeKf0XRm+Js&rqlang=cn' - Console Error (msg): ReferenceError: Can't find variable: performance
+[ERROR - 2021-06-04T08:32:23.944Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - Page at 'https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=长城&rn=&fenlei=256&oq=&rsv_pq=88e6712e00021c75&rsv_t=bbcfp60Bg+TzcZejuTSSQX/OnOKA1zbUB8pvEackcH4z8oU9EeKf0XRm+Js&rqlang=cn' - Console Error (stack): [
+  {
+    "file": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=%E9%95%BF%E5%9F%8E&rn=&fenlei=256&oq=&rsv_pq=88e6712e00021c75&rsv_t=bbcfp60Bg%2BTzcZejuTSSQX%2FOnOKA1zbUB8pvEackcH4z8oU9EeKf0XRm%2BJs&rqlang=cn",
+    "line": 2326,
+    "function": ""
+  },
+  {
+    "file": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=%E9%95%BF%E5%9F%8E&rn=&fenlei=256&oq=&rsv_pq=88e6712e00021c75&rsv_t=bbcfp60Bg%2BTzcZejuTSSQX%2FOnOKA1zbUB8pvEackcH4z8oU9EeKf0XRm%2BJs&rqlang=cn",
+    "line": 2328,
+    "function": ""
+  }
+]
+[ERROR - 2021-06-04T08:32:23.985Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - Page at 'https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=长城&rn=&fenlei=256&oq=&rsv_pq=88e6712e00021c75&rsv_t=bbcfp60Bg+TzcZejuTSSQX/OnOKA1zbUB8pvEackcH4z8oU9EeKf0XRm+Js&rqlang=cn' - Console Error (msg): ReferenceError: Can't find variable: performance
+[ERROR - 2021-06-04T08:32:23.985Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - Page at 'https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=长城&rn=&fenlei=256&oq=&rsv_pq=88e6712e00021c75&rsv_t=bbcfp60Bg+TzcZejuTSSQX/OnOKA1zbUB8pvEackcH4z8oU9EeKf0XRm+Js&rqlang=cn' - Console Error (stack): [
+  {
+    "file": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=%E9%95%BF%E5%9F%8E&rn=&fenlei=256&oq=&rsv_pq=88e6712e00021c75&rsv_t=bbcfp60Bg%2BTzcZejuTSSQX%2FOnOKA1zbUB8pvEackcH4z8oU9EeKf0XRm%2BJs&rqlang=cn",
+    "line": 3111,
+    "function": ""
+  },
+  {
+    "file": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=%E9%95%BF%E5%9F%8E&rn=&fenlei=256&oq=&rsv_pq=88e6712e00021c75&rsv_t=bbcfp60Bg%2BTzcZejuTSSQX%2FOnOKA1zbUB8pvEackcH4z8oU9EeKf0XRm%2BJs&rqlang=cn",
+    "line": 3113,
+    "function": ""
+  }
+]
+[ERROR - 2021-06-04T08:32:24.187Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - Page at 'https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=长城&rn=&fenlei=256&oq=&rsv_pq=88e6712e00021c75&rsv_t=bbcfp60Bg+TzcZejuTSSQX/OnOKA1zbUB8pvEackcH4z8oU9EeKf0XRm+Js&rqlang=cn' - Console Error (msg): ReferenceError: Can't find variable: performance
+[ERROR - 2021-06-04T08:32:24.187Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - Page at 'https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=长城&rn=&fenlei=256&oq=&rsv_pq=88e6712e00021c75&rsv_t=bbcfp60Bg+TzcZejuTSSQX/OnOKA1zbUB8pvEackcH4z8oU9EeKf0XRm+Js&rqlang=cn' - Console Error (stack): [
+  {
+    "file": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=%E9%95%BF%E5%9F%8E&rn=&fenlei=256&oq=&rsv_pq=88e6712e00021c75&rsv_t=bbcfp60Bg%2BTzcZejuTSSQX%2FOnOKA1zbUB8pvEackcH4z8oU9EeKf0XRm%2BJs&rqlang=cn",
+    "line": 5658,
+    "function": ""
+  },
+  {
+    "file": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=%E9%95%BF%E5%9F%8E&rn=&fenlei=256&oq=&rsv_pq=88e6712e00021c75&rsv_t=bbcfp60Bg%2BTzcZejuTSSQX%2FOnOKA1zbUB8pvEackcH4z8oU9EeKf0XRm%2BJs&rqlang=cn",
+    "line": 5660,
+    "function": ""
+  }
+]
+[ERROR - 2021-06-04T08:32:24.206Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - Page at 'https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=长城&rn=&fenlei=256&oq=&rsv_pq=88e6712e00021c75&rsv_t=bbcfp60Bg+TzcZejuTSSQX/OnOKA1zbUB8pvEackcH4z8oU9EeKf0XRm+Js&rqlang=cn' - Console Error (msg): ReferenceError: Can't find variable: define
+[ERROR - 2021-06-04T08:32:24.206Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - Page at 'https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=长城&rn=&fenlei=256&oq=&rsv_pq=88e6712e00021c75&rsv_t=bbcfp60Bg+TzcZejuTSSQX/OnOKA1zbUB8pvEackcH4z8oU9EeKf0XRm+Js&rqlang=cn' - Console Error (stack): [
+  {
+    "file": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=%E9%95%BF%E5%9F%8E&rn=&fenlei=256&oq=&rsv_pq=88e6712e00021c75&rsv_t=bbcfp60Bg%2BTzcZejuTSSQX%2FOnOKA1zbUB8pvEackcH4z8oU9EeKf0XRm%2BJs&rqlang=cn",
+    "line": 5711,
+    "function": ""
+  }
+]
+[ERROR - 2021-06-04T08:32:24.207Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - Page at 'https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=长城&rn=&fenlei=256&oq=&rsv_pq=88e6712e00021c75&rsv_t=bbcfp60Bg+TzcZejuTSSQX/OnOKA1zbUB8pvEackcH4z8oU9EeKf0XRm+Js&rqlang=cn' - Console Error (msg): ReferenceError: Can't find variable: require
+[ERROR - 2021-06-04T08:32:24.207Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - Page at 'https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=长城&rn=&fenlei=256&oq=&rsv_pq=88e6712e00021c75&rsv_t=bbcfp60Bg+TzcZejuTSSQX/OnOKA1zbUB8pvEackcH4z8oU9EeKf0XRm+Js&rqlang=cn' - Console Error (stack): [
+  {
+    "file": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=%E9%95%BF%E5%9F%8E&rn=&fenlei=256&oq=&rsv_pq=88e6712e00021c75&rsv_t=bbcfp60Bg%2BTzcZejuTSSQX%2FOnOKA1zbUB8pvEackcH4z8oU9EeKf0XRm%2BJs&rqlang=cn",
+    "line": 5739,
+    "function": ""
+  },
+  {
+    "file": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=%E9%95%BF%E5%9F%8E&rn=&fenlei=256&oq=&rsv_pq=88e6712e00021c75&rsv_t=bbcfp60Bg%2BTzcZejuTSSQX%2FOnOKA1zbUB8pvEackcH4z8oU9EeKf0XRm%2BJs&rqlang=cn",
+    "line": 5758,
+    "function": ""
+  }
+]
+[ERROR - 2021-06-04T08:32:24.208Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - Page at 'https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=长城&rn=&fenlei=256&oq=&rsv_pq=88e6712e00021c75&rsv_t=bbcfp60Bg+TzcZejuTSSQX/OnOKA1zbUB8pvEackcH4z8oU9EeKf0XRm+Js&rqlang=cn' - Console Error (msg): ReferenceError: Can't find variable: initPreload
+[ERROR - 2021-06-04T08:32:24.208Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - Page at 'https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=长城&rn=&fenlei=256&oq=&rsv_pq=88e6712e00021c75&rsv_t=bbcfp60Bg+TzcZejuTSSQX/OnOKA1zbUB8pvEackcH4z8oU9EeKf0XRm+Js&rqlang=cn' - Console Error (stack): [
+  {
+    "file": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=%E9%95%BF%E5%9F%8E&rn=&fenlei=256&oq=&rsv_pq=88e6712e00021c75&rsv_t=bbcfp60Bg%2BTzcZejuTSSQX%2FOnOKA1zbUB8pvEackcH4z8oU9EeKf0XRm%2BJs&rqlang=cn",
+    "line": 5802,
+    "function": ""
+  }
+]
+[ERROR - 2021-06-04T08:32:24.208Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - Page at 'https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=长城&rn=&fenlei=256&oq=&rsv_pq=88e6712e00021c75&rsv_t=bbcfp60Bg+TzcZejuTSSQX/OnOKA1zbUB8pvEackcH4z8oU9EeKf0XRm+Js&rqlang=cn' - Console Error (msg): TypeError: 'undefined' is not an object (evaluating 'bds.amd.addConfig')
+[ERROR - 2021-06-04T08:32:24.208Z] Session [620a5e00-c50f-11eb-875d-c5bf7280fc41] - Page at 'https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=长城&rn=&fenlei=256&oq=&rsv_pq=88e6712e00021c75&rsv_t=bbcfp60Bg+TzcZejuTSSQX/OnOKA1zbUB8pvEackcH4z8oU9EeKf0XRm+Js&rqlang=cn' - Console Error (stack): [
+  {
+    "file": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=%E9%95%BF%E5%9F%8E&rn=&fenlei=256&oq=&rsv_pq=88e6712e00021c75&rsv_t=bbcfp60Bg%2BTzcZejuTSSQX%2FOnOKA1zbUB8pvEackcH4z8oU9EeKf0XRm%2BJs&rqlang=cn",
+    "line": 5810,
+    "function": ""
+  },
+  {
+    "file": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=%E9%95%BF%E5%9F%8E&rn=&fenlei=256&oq=&rsv_pq=88e6712e00021c75&rsv_t=bbcfp60Bg%2BTzcZejuTSSQX%2FOnOKA1zbUB8pvEackcH4z8oU9EeKf0XRm%2BJs&rqlang=cn",
+    "line": 5811,
+    "function": ""
+  }
+]
